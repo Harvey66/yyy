@@ -1,2 +1,0 @@
-# yyy
-print 'Hello World'
